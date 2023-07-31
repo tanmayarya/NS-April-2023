@@ -50,7 +50,7 @@ public class Backtracking {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n = 5;
+		int n = 4;
 		int arr[][] = new int[n][n];
 //		printBoard(arr);
 		
